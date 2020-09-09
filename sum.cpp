@@ -1,5 +1,5 @@
 // sum.cpp
-#include "sum.h";
+#include "sum.h"
 
 int sum(int n) {
   int res = 0;
